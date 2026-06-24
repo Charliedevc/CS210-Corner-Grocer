@@ -1,5 +1,4 @@
 # CS210-Corner-Grocer
-# CS 210 Portfolio Project - Corner Grocer Item Tracker
 
 ## Project Summary
 
